@@ -1,4 +1,6 @@
-Snake Gmae
+Snake Game
+
+Bootcamp HTML Web Developer Básico - Digital Innovation One
 
 Projeto Criando o Jogoda Cobrinha 
 
